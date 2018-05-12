@@ -1,0 +1,35 @@
+_repo: An-Introduction-to-the-Study-of-the-Maya-Hieroglyphs_43491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, Sylvanus Griswold
+    aliases:
+    - Morley, Silvanus G. (Sylvanus Griswold)
+    - Morley, S. G. (Sylvanus Griswold)
+    birthdate: 1883
+    deathdate: 1948
+    gutenberg_agent_id: '42235'
+    url: http://www.gutenberg.org/2009/agents/42235
+    wikipedia: https://en.wikipedia.org/wiki/Sylvanus_Morley
+description: ''
+gutenberg_issued: '2013-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43491'
+  lccn: '15026692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maya calendar'
+- !lcc 'E011'
+- !lcsh 'Mayan languages -- Writing'
+- !lcsh 'Maya language'
+- !lcsh 'Mayas -- Antiquities'
+- !lcc 'F1401'
+title: An Introduction to the Study of the Maya Hieroglyphs
+url: http://www.gutenberg.org/ebooks/43491
